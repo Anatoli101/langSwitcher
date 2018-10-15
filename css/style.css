@@ -1,0 +1,16 @@
+.lang_switcher{
+    border-bottom: 1px solid;
+    cursor: pointer;
+  }
+  .lang_switcher:hover{
+    color: #b33;
+  }
+  
+  body{
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  .en .ru,
+  .ru .en {
+        display: none;
+      }
